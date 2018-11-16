@@ -8,6 +8,26 @@ By Ryan Curry 11/16/18
 
 ## Introduction
 
+The rise and fall of the cryptocurrency markets from November, 2017 to August, 2018, has caused many people to pay attention to this newer type of digital currency. If you were able to buy/invest in some of the currencies before the major run-up that resulted in a bubble, then you probably made a nice return. An entire group of new millionaires were created during this bubble, with a select few even making it to billionaire status. The bottom line, crypto is now on everybody's radar. But what is it and why should anybody care? And how can somebody actually make some money in this new wild west type market?
+
+Some people are looking at crypto as a new form of financial market. Others point to the underlying technology that is making all of this possible, blockchain, and saying this new technology will revolutionize the world and possibly create a new, better internet. And at some level, I think they are both right. These topics are complex and not easily understood. But if you look at the internet, blockchain technology, and know something about financial markets and economics, you might know more about this new revolutionary technology than you think.
+
+How the Internet Works:
+
+![](images/how_int_works.gif)
+
+How Blockchain Works:
+
+![](images/how_blockchain_works_1.jpg)
+
+How Crypto Works:
+
+![](images/how_crypto_works_fun.jpg)
+
+How it all works together:
+
+![](images/fun.jpg)
+
 
 
 ## Question
